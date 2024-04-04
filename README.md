@@ -24,19 +24,19 @@ Project consists of using VM Workstation Player, Windows 10, and Nessus vulnerab
 
 <p align="center">
 Download VMware Workstation Player: <br/>
-<img src="https://imgur.com/Nwmb3EY" alt="Install VMware Workstation Player"/>
+<img src="https://i.imgur.com/Nwmb3EY.png" alt="Install VMware Workstation Player"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Windows 10 ISO image:  <br/>
+<img src="https://i.imgur.com/1pCZL2n.png" height="80%" width="80%" alt="Download Windows 10 ISO image"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Nessus Essentials: <br/>
+<img src="https://i.imgur.com/g7uiE0D.png" height="80%" width="80%" alt="Download Nessus Essentials"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup Virtual Machine:  <br/>
+<img src="https://i.imgur.com/x9SLpyk.png" height="80%" width="80%" alt="Setup Virtual Machine"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
