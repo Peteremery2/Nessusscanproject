@@ -39,17 +39,19 @@ Setup Virtual Machine:  <br/>
 <img src="https://i.imgur.com/x9SLpyk.png" height="80%" width="80%" alt="Setup Virtual Machine"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select disk size for virtual machine:  <br/>
+<img src="https://i.imgur.com/K7Qs4Bg.png" height="80%" width="80%" alt="Select disk size for virtual machine"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Go through the Windows 10 installation:  <br/>
+<img src="https://i.imgur.com/ZkjWNAE.png" height="80%" width="80%" alt="Go through the Windows 10 installation"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Observe that Windows 10 and Nessus are completely installed:  <br/>
+<img src="https://i.imgur.com/FJEq7Iy.png" height="80%" width="80%" alt="Observe that Windows 10 and Nessus are completely installed"/>
+<br />
+You’ll now want to get the IP address from the VM:  <br/>
+<img src="https://i.imgur.com/92bgv9L.png" height="80%" width="80%" alt="You’ll now want to get the IP address from the VM"/> 
 
 <!--
  ```diff
